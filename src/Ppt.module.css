@@ -1,0 +1,14 @@
+body {
+    margin:0;
+    background:white;
+  }  
+  #elegir {
+      display: flex;
+  
+  }
+  #elegir li{
+      list-style: none;
+  }
+  #elegir img{ width: 140px; height: 150px;cursor: pointer;}
+  p{vertical-align: middle; font-size: 1.8em;}
+  
